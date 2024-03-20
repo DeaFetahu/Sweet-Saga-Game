@@ -1,10 +1,19 @@
-This is a game I created using PixiJS <br><br>
-To get started you need to: <br>
-  1. Clone the code in your desired folder
-  2. Open the project in Visual Studio Code
-  3. Open the terminal
-  4. Write the following command :<b> npm i </b>
-  5. Lastly you can go ahead and open the project writing the command:<b> npm start </b>
+<h3>This repository contains a game developed using PixiJS, inspired by the addictive gameplay of match-three puzzle games like Candy Crush </h3><br>
 
-To play the game is simple: you need to <b> click </b> on the candies you want to swap places so you match 3 or more of them!
-     
+<h2>About the Game</h2>
+In this game, players must match three or more similar candies by <b> clicking </b> on the candies you want to swap places !
+
+<h2>Technologies Used</h2>
+<ul>
+  <li>PixiJS: A WebGL-based 2D graphics library for creating interactive games and applications.</li>
+</ul>
+
+<h2>To get started you need to:</h2>
+<ol>
+<li>Clone the repository to your local machine </li>  
+<li>Open the project in Visual Studio Code </li>
+<li>Open the terminal </li>
+<li>Write the following command :<b> npm i </b></li>
+<li>Lastly you can go ahead and open the project writing the command:<b> npm start </b></li>
+</ol>
+
