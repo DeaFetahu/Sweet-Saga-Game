@@ -1,4 +1,4 @@
-<h4>This repository contains a game developed using PixiJS, inspired by the addictive gameplay of match-three puzzle games like Candy Crush </h4><br>
+<h4>This repository contains a game developed using PixiJS, inspired by the addictive gameplay of match-three puzzle games like Candy Crush </h4>
 
 <h2>About the Game</h2>
 In this game, players must match three or more similar candies by <b> clicking </b> on the candies you want to swap places !
